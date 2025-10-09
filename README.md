@@ -3,7 +3,7 @@
 ![Followers](https://img.shields.io/github/followers/CodCatDev?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/CodCatDev?label=Stars)
 
-I'm CodCatDev (Maxim). I'm 12 years old and I'm from Russia.
+I'm CodCatDev (Maxim). I'm Self-Taught programmer (12 years old) and I'm from Russia.
 I like creating games and programs, I have been doing this for 3 years now
 
 ## Languages
