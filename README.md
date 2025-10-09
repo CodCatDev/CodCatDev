@@ -10,7 +10,7 @@
 ## Contact me
 
 - Email: CodCatDev@gmail.com
-- Telegram: @CodCatDev
+- Telegram: [@CodCatDev](https://t.me/CodCatDev]
 
 ## Stats
 
