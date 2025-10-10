@@ -10,8 +10,8 @@ I like creating games and programs, I have been doing this for 3 years now
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=CodCatDev&show_icons=true&theme=radical)
 
 ## My projects
-[![OneEngine Card](https://github-readme-stats.vercel.app/api/pin/?username=CodCatDev&repo=OneEngine&theme=radical&show_icons=true)](https://github.com/CodCatDev/OneEngine)
-[![ClawsedBot Card](https://github-readme-stats.vercel.app/api/pin/?username=CodCatDev&repo=ClawsedBot&theme=radical&show_icons=true)](https://github.com/CodCatDev/ClawsedBot)
+[![OneEngine Card](https://github-readme-stats.vercel.app/api/pin/?username=CodCatDev&repo=OneEngine&theme=radical)](https://github.com/CodCatDev/OneEngine)
+[![ClawsedBot Card](https://github-readme-stats.vercel.app/api/pin/?username=CodCatDev&repo=ClawsedBot&theme=radical)](https://github.com/CodCatDev/ClawsedBot)
 
 ## Contact me
 | Contant |
