@@ -10,8 +10,7 @@ I like creating games and programs, I have been doing this for 3 years now
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=CodCatDev&show_icons=true&theme=radical)
 
 ## My projects
-<a href="https://github.com/CodCatDev/OneEngine" ><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodCatDev&repo=OneEngine&theme=radical" alt="OneEngine"></a>
-<a href="https://github.com/CodCatDev/ClawsedBot" ><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodCatDev&repo=ClawsedBot&theme=radical" alt="Clawsed Bot"></a>
+### Oops! All my projects will be *DELETED*!
 
 ## Contact me
 | Contant |
