@@ -19,7 +19,7 @@
 
 ---
 
-![CodCatDev Github Stats](https://github-readme-stats.vercel.app/api?username=CodCatDev&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodCatDev&layout=compact&theme=dracula)
+![CodCatDev Github Stats](https://github-readme-stats.vercel.app/api?username=CodCatDev&show_icons=true&theme=dracula&cache_seconds=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodCatDev&theme=dracula&cache_seconds=1)
 
 </div>
