@@ -2,7 +2,7 @@
     <img src="banner.png" width="50%">
 </div>
 <div align="center">
-    <h1>[ <b>CodCatDev</b> ]</h1>
+    <h1> [ <b>CodCatDev</b> ] </h1>
 </div>
 
 <div align="center">
