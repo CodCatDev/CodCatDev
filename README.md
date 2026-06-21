@@ -15,7 +15,7 @@
 ---
 
 <div align="center">
-    <h2>Listening & Stats</h2>
+    <h2>Stats</h2>
     <img alt="profile stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodCatDev&theme=tokyonight">
     <p>
         <img alt="profile stats #2" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodCatDev&theme=tokyonight">
