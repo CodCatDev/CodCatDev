@@ -9,14 +9,15 @@
 
 <div align="center">
     <h2>My skills</h2>
-    <img alt="skills" src="https://skillicons.dev/icons?i=html,css,js,python,c,cs,kotlin,cloudflare,github,vscode,figma,androidstudio&theme=dark&perline=6">
+    <img alt="skills" src="https://skillicons.dev/icons?i=html,css,js,python,c,cs,kotlin&theme=dark">
+    <br>
+    <img alt="skills" src="https://skillicons.dev/icons?i=cloudflare,github,vscode,figma,androidstudio,discord&theme=dark">
 </div>
 
 ---
 
 <div align="center">
     <h2>Stats</h2>
-    <img alt="profile stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodCatDev&theme=tokyonight">
     <p>
         <img alt="profile stats #2" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodCatDev&theme=tokyonight">
         <img alt="languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodCatDev&theme=tokyonight">
