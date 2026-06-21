@@ -1,25 +1,26 @@
 <div align="center">
-    <img src="banner.png" width="50%">
+    <h1>Hey There! 👋</h1>
+    <p>Hi! I'm CodCatDev, a 13-year-old indie developer from Russia (Stavropol Krai). I've been programming for about three years now!</p>
+    <img alt="Total Stars" src="https://img.shields.io/github/stars/CodCatDev?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41&label=total%20stars">
+    <img alt="Followers" src="https://img.shields.io/github/followers/CodCatDev?style=for-the-badge&logo=buddy&color=f5bde6&logoColor=D9E0EE&labelColor=302D41&label=followers">
 </div>
+
+---
+
 <div align="center">
-    <h1> [ <b>CodCatDev</b> ] </h1>
+    <h2>My skills</h2>
+    <img alt="skills" src="https://skillicons.dev/icons?i=html,css,js,python,c,cs,kotlin,cloudflare,github,vscode,figma,androidstudio&theme=dark&perline=6">
 </div>
 
+---
+
 <div align="center">
-
----
-
-<h3>I am a <b>12-year-old</b> developer from <b>Russia</b>, I developing Full-Stack projects on <b>Python</b> and <b>JavaScript</b>, also using <b>PHP</b></h3>
-
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,cs,php,github,vscode,figma" />
-</p>
-
----
-
-![CodCatDev Github Stats](https://github-readme-stats.vercel.app/api?username=CodCatDev&show_icons=true&theme=dracula&cache_seconds=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodCatDev&theme=dracula&cache_seconds=1)
-
+    <h2>Listening & Stats</h2>
+    <img alt="last.fm listen" src="https://lastfm-recently-played.vercel.app/api?user=codcatdev">
+    <img alt="profile stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodCatDev&theme=tokyonight">
+    <p>
+        <img alt="profile stats #2" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodCatDev&theme=tokyonight">
+        <img alt="languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodCatDev&theme=tokyonight">
+        <img alt="commits" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodCatDev&theme=tokyonight&utcOffset=3">
+    </p>
 </div>
