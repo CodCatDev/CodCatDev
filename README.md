@@ -9,7 +9,7 @@
 
 <div align="center">
     <h2>My skills</h2>
-    <img alt="skills" src="https://skillicons.dev/icons?i=html,css,js,python,c,cs,kotlin&theme=dark">
+    <img alt="skills" src="https://skillicons.dev/icons?i=html,css,js,python,c,cs,kotlin,go&theme=dark">
     <br>
     <img alt="skills" src="https://skillicons.dev/icons?i=cloudflare,github,vscode,figma,androidstudio,discord&theme=dark">
 </div>
