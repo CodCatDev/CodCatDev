@@ -8,11 +8,11 @@
 <br>
 
 <div align="center">
-    <img alt="skills" src="https://skillicons.dev/icons?i=html,css,js,python,kotlin,go,c&theme=dark">
+    <img alt="langs" src="https://skillicons.dev/icons?i=html,css,js,python,kotlin,go,c&theme=dark">
     <br>
-    <img alt="skills" src="https://skillicons.dev/icons?i=vscode,figma,androidstudio,discord&theme=dark">
+    <img alt="progs" src="https://skillicons.dev/icons?i=vscode,figma,androidstudio,discord,blender&theme=dark">
     <br>
-    <img alt="skills" src="https://skillicons.dev/icons?i=github,cloudflare,nginx&theme=dark">
+    <img alt="services" src="https://skillicons.dev/icons?i=github,cloudflare,nginx,docker&theme=dark">
 </div>
 
 ---
