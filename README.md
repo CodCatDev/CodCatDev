@@ -8,15 +8,16 @@
 <br>
 
 <div align="center">
-    <img alt="skills" src="https://skillicons.dev/icons?i=html,css,js,python,kotlin,go&theme=dark">
+    <img alt="skills" src="https://skillicons.dev/icons?i=html,css,js,python,kotlin,go,c&theme=dark">
     <br>
-    <img alt="skills" src="https://skillicons.dev/icons?i=cloudflare,github,vscode,figma,androidstudio,discord&theme=dark">
+    <img alt="skills" src="https://skillicons.dev/icons?i=vscode,figma,androidstudio,discord&theme=dark">
+    <br>
+    <img alt="skills" src="https://skillicons.dev/icons?i=github,cloudflare,nginx&theme=dark">
 </div>
 
 ---
 
 <div align="center">
-    <h2>Stats</h2>
     <p>
         <img alt="profile stats #2" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodCatDev&theme=tokyonight">
         <img alt="languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodCatDev&theme=tokyonight">
