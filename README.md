@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-    <img alt="langs" src="https://skillicons.dev/icons?i=html,css,js,python,kotlin,go,c&theme=dark">
+    <img alt="langs" src="https://skillicons.dev/icons?i=html,css,js,python,kotlin,go,c,nim&theme=dark">
     <br>
     <img alt="progs" src="https://skillicons.dev/icons?i=vscode,figma,androidstudio,discord,blender&theme=dark">
     <br>
